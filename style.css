@@ -744,7 +744,7 @@ footer .two p {
     color: #70737C;
 }
 
-@media screen and (max-width: 361px) {
+@media screen and (max-width: 400px) {
     nav {
         width: 100%;
         height: 72px;
